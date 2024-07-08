@@ -97,6 +97,9 @@ class RocketClient {
 		})
 	}
 
+	/**
+	 * @param sender alphanumeric name
+	 */
 	public async addSender(sender: string) {
 		const uri = '/simple/senders/add'
 
