@@ -1,7 +1,7 @@
 {
 	"name": "@alterdepression/rocket-sms",
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Vadzim Zakharov <zakharovvadzim@yandex.by>",
 	"description": "A client to rocket-sms API...",
 	"main": "./lib/index.js",
