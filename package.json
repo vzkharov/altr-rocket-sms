@@ -53,16 +53,14 @@
 		}
 	},
 	"keywords": [
-		"redis",
-		"totp",
-		"auth",
-		"edge",
-		"upstash"
+		"bun",
+		"node",
+		"rocket-sms"
 	],
 	"bugs": {
-		"url": "https://github.com/vzkharov/altr-auth/issues"
+		"url": "https://github.com/vzkharov/altr-rocket-sms/issues"
 	},
-	"homepage": "https://github.com/vzkharov/altr-auth#readme",
+	"homepage": "https://github.com/vzkharov/altr-rocket-sms#readme",
 	"trustedDependencies": [
 		"@biomejs/biome"
 	],
